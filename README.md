@@ -6,4 +6,8 @@ Hacktoberfest runs throughout the month of October and every individual with 5 o
 
 It's a great way to start off your journey into open source.<br>
 
-For starters, we'll be creating a file called <a href="">membership.md</a>. Add your name, batch, email_id and github_id to that.<br>
+For starters, we'll be creating a file called <a href="https://github.com/MEC-Enigma/Hacktoberfest18/hacktoberfest/membership.md">membership.md</a>. Add the s.no, your name embedded within a link to your github profile and you batch.<br>
+
+Over the month, we'll be launching a couple of issues which you guys can solve in order to make sure that you all get to make 5 PRs and are eligible for the Hacktoberfest t-shirt.<br>
+
+## Stay tuned people!

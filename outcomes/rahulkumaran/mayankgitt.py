@@ -8,4 +8,4 @@ Created on Wed Oct  3 19:08:34 2018
 
 i=0
 for i in range(1,10,1):
-    print (i*9)
+    print (i*99)

@@ -10,4 +10,3 @@
 | 8 | <a href="https://github.com/Theabominog">Murtuza Ali</a> | 2018 - 2022 |
 | 9 | <a href="https://github.com/tanaytoshniwal">Tanay Toshniwal</a> | 2016-2020 |
 | 10 | <a href="https://github.com/juniormince">Bree Melechinsky</a> | null |
-| 11 | <a href="https://github.com/juniormince">Abcd Efgh</a> | null |
